@@ -10,6 +10,6 @@ Smallest, most stable framework in the world.
 
 Copyright, you can't copy this or create derivate work.
 
-## Tanks
+## Thanks
 
 You're welcome.
